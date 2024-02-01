@@ -1,0 +1,27 @@
+html,body{
+  background-image: url("./Cream\ and\ Brown\ Photographic\ Beauty\ Site\ Launch\ Website.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.form-config{
+  width: 50%;
+  height: 600px;
+  margin: auto;
+  animation: fadeIn 2s ease-in;
+  opacity: 0.8;
+}
+
+@keyframes fadeIn {
+  from{
+    opacity: 0;
+  }
+  to {
+    opacity: 0.8;
+  }
+}
+
+.font{
+  font-family: 'Satisfy', cursive;
+}
